@@ -10,22 +10,6 @@ import {
   CardFooter,
 } from "@material-tailwind/react";
 import { BsSearch } from "react-icons/bs";
-import img1 from "../Images/img1 - Copy.png";
-import img2 from "../Images/img2 - Copy.png";
-import img3 from "../Images/img3 - Copy.png";
-import img4 from "../Images/img4.png";
-import img5 from "../Images/img5.png";
-import img6 from "../Images/img6.png"
-import img7 from "../Images/img7.png"
-import img8 from "../Images/img8.png"
-import img9 from "../Images/img9.png"
-import img10 from "../Images/img10.png"
-import img11 from "../Images/img11.png"
-import img12 from "../Images/img12.png"
-import img13 from "../Images/img13.webp"
-import img14 from "../Images/img14.png"
-import img15 from "../Images/img15.webp"
-import img16 from "../Images/img16.png"
 
 
 
@@ -60,7 +44,7 @@ export default function Example() {
           <Card className="w-64 bg-[#FFFFFF] item-center mx-auto mb-5 ">
             <CardHeader shadow={false} floated={false}>
               <center>
-                <img src={img1} className="w-[120px] h-[188px] " alt="img" />
+                <img src="./BooStore_Images/img1 - Copy.png" className="w-[120px] h-[188px] " alt="img" />
               </center>
             </CardHeader>
             <CardBody>
@@ -94,7 +78,7 @@ export default function Example() {
           <Card className="w-64 bg-[#FFFFFF] item-center  mx-auto mb-5">
             <CardHeader shadow={false} floated={false}>
               <center>
-                <img src={img2} className="w-[120px] h-[188px] " alt="img" />
+                <img src="./BooStore_Images/img2 - Copy.png" className="w-[120px] h-[188px] " alt="img" />
               </center>
             </CardHeader>
             <CardBody>
@@ -128,7 +112,7 @@ export default function Example() {
           <Card className="w-64 bg-[#FFFFFF] item-center  mx-auto mb-5">
             <CardHeader shadow={false} floated={false}>
               <center>
-                <img src={img3} className="w-[120px] h-[188px] " alt="img" />
+                <img src="./BooStore_Images/img3 - Copy.png" className="w-[120px] h-[188px] " alt="img" />
               </center>
             </CardHeader>
             <CardBody>
@@ -161,7 +145,7 @@ export default function Example() {
           <Card className="w-64 bg-[#FFFFFF] item-center  mx-auto mb-5 ">
             <CardHeader shadow={false} floated={false}>
               <center>
-                <img src={img4} className="w-[120px] h-[188px] " alt="img" />
+                <img src="./BooStore_Images/img4.png" className="w-[120px] h-[188px] " alt="img" />
               </center>
             </CardHeader>
             <CardBody>
@@ -201,7 +185,7 @@ export default function Example() {
           <Card className="w-64 bg-[#FFFFFF] item-center mx-auto mb-5 ">
             <CardHeader shadow={false} floated={false}>
               <center>
-                <img src={img5} className="w-[120px] h-[188px] " alt="img" />
+                <img src="./BooStore_Images/img5.png" className="w-[120px] h-[188px] " alt="img" />
               </center>
             </CardHeader>
             <CardBody>
@@ -234,7 +218,7 @@ export default function Example() {
           <Card className="w-64 bg-[#FFFFFF] item-center  mx-auto mb-5">
             <CardHeader shadow={false} floated={false}>
               <center>
-                <img src={img6} className="w-[120px] h-[188px] " alt="img" />
+                <img src="./BooStore_Images/img6.png" className="w-[120px] h-[188px] " alt="img" />
               </center>
             </CardHeader>
             <CardBody>
@@ -268,7 +252,7 @@ export default function Example() {
           <Card className="w-64 bg-[#FFFFFF] item-center  mx-auto mb-5">
             <CardHeader shadow={false} floated={false}>
               <center>
-                <img src={img7} className="w-[120px] h-[188px] " alt="img" />
+                <img src="./BooStore_Images/img7.png" className="w-[120px] h-[188px] " alt="img" />
               </center>
             </CardHeader>
             <CardBody>
@@ -301,7 +285,7 @@ export default function Example() {
           <Card className="w-64 bg-[#FFFFFF] item-center  mx-auto mb-5 ">
             <CardHeader shadow={false} floated={false}>
               <center>
-                <img src={img8} className="w-[120px] h-[188px] " alt="img" />
+                <img src="./BooStore_Images/img8.png" className="w-[120px] h-[188px] " alt="img" />
               </center>
             </CardHeader>
             <CardBody>
@@ -341,7 +325,7 @@ export default function Example() {
           <Card className="w-64 bg-[#FFFFFF] item-center mx-auto mb-5 ">
             <CardHeader shadow={false} floated={false}>
               <center>
-                <img src={img9} className="w-[120px] h-[188px] " alt="img" />
+                <img src="./BooStore_Images/img9.png" className="w-[120px] h-[188px] " alt="img" />
               </center>
             </CardHeader>
             <CardBody>
@@ -374,7 +358,7 @@ export default function Example() {
           <Card className="w-64 bg-[#FFFFFF] item-center  mx-auto mb-5">
             <CardHeader shadow={false} floated={false}>
               <center>
-                <img src={img10} className="w-[120px] h-[188px] " alt="img" />
+                <img src="./BooStore_Images/img10.png" className="w-[120px] h-[188px] " alt="img" />
               </center>
             </CardHeader>
             <CardBody>
@@ -408,7 +392,7 @@ export default function Example() {
           <Card className="w-64 bg-[#FFFFFF] item-center  mx-auto mb-5">
             <CardHeader shadow={false} floated={false}>
               <center>
-                <img src={img11} className="w-[120px] h-[188px] " alt="img" />
+                <img src="./BooStore_Images/img11.png" className="w-[120px] h-[188px] " alt="img" />
               </center>
             </CardHeader>
             <CardBody>
@@ -441,7 +425,7 @@ export default function Example() {
           <Card className="w-64 bg-[#FFFFFF] item-center  mx-auto mb-5 ">
             <CardHeader shadow={false} floated={false}>
               <center>
-                <img src={img12} className="w-[120px] h-[188px] " alt="img" />
+                <img src="./BooStore_Images/img12.png" className="w-[120px] h-[188px] " alt="img" />
               </center>
             </CardHeader>
             <CardBody>
@@ -481,7 +465,7 @@ export default function Example() {
           <Card className="w-64 bg-[#FFFFFF] item-center mx-auto mb-5 ">
             <CardHeader shadow={false} floated={false}>
               <center>
-                <img src={img13} className="w-[120px] h-[188px] " alt="img" />
+                <img src="./BooStore_Images/img13.png" className="w-[120px] h-[188px] " alt="img" />
               </center>
             </CardHeader>
             <CardBody>
@@ -514,7 +498,7 @@ export default function Example() {
           <Card className="w-64 bg-[#FFFFFF] item-center  mx-auto mb-5">
             <CardHeader shadow={false} floated={false}>
               <center>
-                <img src={img14} className="w-[120px] h-[188px] " alt="img" />
+                <img src="./BooStore_Images/img14.png" className="w-[120px] h-[188px] " alt="img" />
               </center>
             </CardHeader>
             <CardBody>
@@ -548,7 +532,7 @@ export default function Example() {
           <Card className="w-64 bg-[#FFFFFF] item-center  mx-auto mb-5">
             <CardHeader shadow={false} floated={false}>
               <center>
-                <img src={img15} className="w-[120px] h-[188px] " alt="img" />
+                <img src="./BooStore_Images/img15.png" className="w-[120px] h-[188px] " alt="img" />
               </center>
             </CardHeader>
             <CardBody>
@@ -581,7 +565,7 @@ export default function Example() {
           <Card className="w-64 bg-[#FFFFFF] item-center  mx-auto mb-5 ">
             <CardHeader shadow={false} floated={false}>
               <center>
-                <img src={img16} className="w-[120px] h-[188px] " alt="img" />
+                <img src="./BooStore_Images/img16.png" className="w-[120px] h-[188px] " alt="img" />
               </center>
             </CardHeader>
             <CardBody>
