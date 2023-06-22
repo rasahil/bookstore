@@ -29,7 +29,7 @@ export const whyyou = [
   {
     title:'JOIN US',  
     subtitle:"Get involved. You don't want to look  back on your life and realize that   you successfully managed to   stay out of it.",
-    img:"",
+    img:"./images/Joinus.jpeg",
     btn:"CLICK"
   },
   {
